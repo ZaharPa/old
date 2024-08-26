@@ -1,0 +1,20 @@
+.titleArticle {
+
+	width: 500px;
+	margin-bottom: 10px;
+}
+
+.area {
+	margin-top: 10px;
+	width: 500px;
+	height: 150px;
+	margin-bottom: 10px;
+}
+
+table{
+	width: 100%;
+}
+
+td{
+	text-align: center;
+}
